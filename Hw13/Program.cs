@@ -17,7 +17,7 @@ Result Login = null;
 MemberService memberService = new MemberService();
 BookService bookService = new BookService();
 AdminService adminService = new AdminService();
-AppDbContext c = new AppDbContext();  
+ 
 
 
 

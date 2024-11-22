@@ -9,6 +9,7 @@ namespace Hw13.Configuration
         public void Configure(EntityTypeBuilder<Member> builder)
         {
             builder.HasKey(x => x.Id);
+           
         }
     }
 }
